@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoyOyaole
-- 👀 I’m interested in ... Data Science
+- 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate with ... Like minds in data Science
+- 💞️ I’m looking to collaborate with ... Like minds in data Analysis
 - 📫 How to reach me ... joyoyaole@gmail.com
 
 <!---
